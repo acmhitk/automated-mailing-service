@@ -5,6 +5,7 @@ Before contributing:
 
 - Please download Git 🥹
 - Make your Git default branch as `main`
+- Update your user config name and email
 - To avoid merge conflicts don't forget to
 
   ```
